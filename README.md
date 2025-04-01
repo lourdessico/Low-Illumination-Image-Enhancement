@@ -1,7 +1,7 @@
 # Low-Illumination-Image-Enhancement
-Here I present a project on Low Illumination Image Enhancement based on
+Here I present a project on Low Illumination Image Enhancement based on:
  
-_Z. Shi,M.m. Zhu,B.Guoet al. “Nighttime lowillumination image enhancement with single image using bright/dark channel prior ,” EURASIPJournal on Image andVideoProcessingFeb, 2018, DOI.
+_Z. Shi, M.m. Zhu, B.Guoet al. “Nighttime lowillumination image enhancement with single image using bright/dark channel prior.” EURASIPJournal on Image andVideoProcessingFeb, 2018, DOI.
  10.1186/s13640-018-0251-4_
 
 ## Authors
