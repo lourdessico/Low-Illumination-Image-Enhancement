@@ -11,7 +11,8 @@ We reproduce a method of nighttime low-illumination image enhancement based on t
 At the end of the code you will find alternative ways to do some procedures that were discarted as we found a way which provided us with better or very similar results.
 
 ## Example Result
-Here I present some results
+Below there is an example of our method results. More images can be found in the "images" folder.
+
 <p align="center">
   <img src="images/camping.jpg" width="400"/><br>
   <img src="images/camp_results.jpg" width="400"/>
