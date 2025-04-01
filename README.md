@@ -5,7 +5,7 @@ _Z. Shi, M.m. Zhu, B.Guoet al. “Nighttime lowillumination image enhancement wi
  10.1186/s13640-018-0251-4_
 
 ## Authors
-This project was made by Oriol Josa and Lourdes Simón.
+This project was made by Lourdes Simón and Oriol Josa.
 
 ## Brief summary
 
